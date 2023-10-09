@@ -1,2 +1,2 @@
 # HelloConflict
-Repo để test conflict
+Repo để test pull-request conflict
